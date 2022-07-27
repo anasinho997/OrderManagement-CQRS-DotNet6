@@ -1,19 +1,5 @@
 <div id="top"></div>
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-    <img src="images/DuZCoWWUYAAoKpQ.jpeg">
-  </a>
-
-<h3 align="center">OrderManagement-With-CQRS</h3>
-
-  <p align="center">
-    😁
-    <br />
-    <a href="https://github.com/furkandadali/OrderManagement-With-CQRS"><strong>Explore the docs »</strong></a>
-    <br />
-</div>
+ 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
